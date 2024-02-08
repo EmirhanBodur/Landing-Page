@@ -44,6 +44,7 @@ h1,h2,h3,h4,h5,h6 button,nav {
     background: linear-gradient(to right,var(--blue),var(--cyan));
     padding:12px 48px;
     border-radius: 9999px;
+    cursor: pointer;
     color: var(--white);
    
 }
